@@ -6,7 +6,7 @@ img{
     border-radius: 10px;
     display: block;
 }
-image{
+#image{
     max-width: 100%;
     height: auto;
     display: center;
